@@ -1,0 +1,5 @@
+classes=2
+train=data/nba/train.txt
+valid=data/nba/val.txt
+names=config/nba.names
+backup=backup/
